@@ -74,3 +74,8 @@ python3 relay.py
 
 1. Выключить пульт
 2. Выключить дрон
+
+Some usefull docs:
+https://docs.platformio.org/en/latest/frameworks/arduino.html
+https://docs.espressif.com/projects/arduino-esp32/en/latest/api/wifi.html
+https://github.com/espressif/arduino-esp32/blob/master/libraries/WiFi/src/WiFi.h
